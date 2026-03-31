@@ -1,6 +1,8 @@
 # Rumen
 A fast, compact, bloat-free Lighting solution based off Lamp Light, made in Luau.
-Download [Rumen](https://create.roblox.com/store/asset/100686777216988/Rumen) here.
++ Install the plugin [Rumen](https://create.roblox.com/store/asset/100686777216988/Rumen) here.
++ Download [RumenU](https://github.com/Storm99999/Rumen/blob/main/RumenUltimate.rbxm?raw=true) here.
+RumenU is a heavy lighting solution, with special denoising technology, which allows for the most realistic Lighting effects. Renders can take 60% more time!
 
 # Examples
 <img width="1623" height="779" alt="image" src="https://github.com/user-attachments/assets/ef01920b-f372-4491-8c63-3927e3dc85df" />
