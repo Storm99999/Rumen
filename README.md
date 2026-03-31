@@ -5,7 +5,11 @@ A fast, compact, bloat-free Lighting solution based off Lamp Light, made in Luau
 RumenU is a heavy lighting solution, with special denoising technology, which allows for the most realistic Lighting effects. Renders can take 60% more time!
 
 # Examples
+Rumen
 <img width="1623" height="779" alt="image" src="https://github.com/user-attachments/assets/ef01920b-f372-4491-8c63-3927e3dc85df" />
+Rumen Ultimate
+<img width="1333" height="648" alt="image" src="https://github.com/user-attachments/assets/1d0c7bc1-4745-41e0-8d75-91640fbc9779" />
+
 
 # Baking Preview & Benchmarks
 With Rumen, you can bake with up to 2k samples, compared to the 512 max samples with Lamp Light.
