@@ -8,5 +8,5 @@ A fast, compact, bloat-free Lighting solution based off Lamp Light, made in Luau
 With Rumen, you can bake with up to 2k samples, compared to the 512 max samples with Lamp Light.
 <img width="1398" height="672" alt="image" src="https://github.com/user-attachments/assets/db9f44ca-b796-4d0c-abab-f9c6fce315fd" />
 ## Benchmarks
-  06:18:02.150  [RumenCore] Total Time: 14.180286699905992 seconds  -  Edit
-  06:19:29.657  [LampLight] Total Time: 29.905459999572486 seconds  -  Edit
+  - 06:18:02.150  [RumenCore] Total Time: 14.180286699905992 seconds  -  Edit
+  - 06:19:29.657  [LampLight] Total Time: 29.905459999572486 seconds  -  Edit
